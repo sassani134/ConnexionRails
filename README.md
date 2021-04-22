@@ -1,24 +1,16 @@
-# README
+# rails Connexion serveur for godot [WIP]
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A [Godot project](https://github.com/sassani134/ConnexionGodot) that let you connect to a rails server with some JSON credential.
 
-Things you may want to cover:
+## Instalation
+incoming
 
-* Ruby version
+## Usage
+You can freely use it for your own purporse. Do not hesitate to change the styles
 
-* System dependencies
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
